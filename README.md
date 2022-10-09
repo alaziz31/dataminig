@@ -1,1 +1,1 @@
-# dataminig
+# datamining
